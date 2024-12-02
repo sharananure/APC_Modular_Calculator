@@ -1,0 +1,21 @@
+Arbitrary Precision Calculator (APC)
+
+Description:
+This project implements an Arbitrary Precision Calculator (APC) that can handle large numbers beyond the typical range of standard data types like int or long. The calculator uses doubly linked lists to perform operations such as addition, subtraction, multiplication, and division on large integers.
+
+Features:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Supports large integers using doubly linked lists
+6. Handles positive and negative numbers
+
+Files:
+main.c: Main program file to run the calculator.
+main.h: Header file with function declarations and data structures.
+addition.c: Contains the logic for addition.
+subtraction.c: Contains the logic for subtraction.
+multiplication.c: Contains the logic for multiplication.
+division.c: Contains the logic for division.
+linked_list_operations.c: Helper functions for managing memory and lists.
